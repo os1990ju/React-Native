@@ -17,5 +17,5 @@ Finally
  run: npx expo start
 
 
-[View demo:]([URL_DEL_DEM](https://vimeo.com/853963867?share=copy)https://vimeo.com/853963867?share=copyO)
+View demo: URL_DEL_DEM](https://vimeo.com/853963867?share=copy)https://vimeo.com/853963867?share=copyO
 
